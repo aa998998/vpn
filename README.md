@@ -15,17 +15,17 @@
 - 支持CDN套用
 - 支持Fallback分流设置
 
-### Youtube播放地址：https://youtu.be/Hg3A_cUYNaI
+### Youtube播放地址：https://youtu.be
 
  ## 一、准备工作
 
   ### 1、一台境外VPS主流系统，例如：Debian/Ubuntu/CentOS
 
-本期搭建用的VPS网址：https://bit.ly/3hBENuF
+本期搭建用的VPS网址：https://billing.raksmart.com/whmcs/aff.php?aff=7281
   
-Vultr VPS 购买地址：https://www.vultr.com/?ref=9554306  [点此进入](https://www.vultr.com/?ref=9554306)  
+raksmart VPS 购买地址：(https://billing.raksmart.com/whmcs/aff.php?aff=7281)  [点此进入](https://billing.raksmart.com/whmcs/aff.php?aff=7281) 
 
-Vultr是按时计费，不用了可以随时删除服务器就停止收费了，最低6$/月。
+raksmart 拥有丰富的活动低廉的价格以及稳定的性能是购买vps的不二选择，加上平台活动 一个月的费用不到5元RMB
 
 ### 2、下载并安装FinalShell SSH工具
 
