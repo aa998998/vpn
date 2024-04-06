@@ -25,7 +25,7 @@
   
 raksmart VPS 购买地址：(https://billing.raksmart.com/whmcs/aff.php?aff=7281)  [点此进入](https://billing.raksmart.com/whmcs/aff.php?aff=7281) 
 
-raksmart 拥有丰富的活动低廉的价格以及稳定的性能是购买vps的不二选择，加上平台活动 一个月的费用不到5元RMB
+raksmart 拥有丰富的活动低廉的价格以及稳定的性能是购买vps的不二选择，加上平台活动 一个月的费用不到5元RMB 支持中英双文 任何问题只要发工单 填写中文咨询即可
 
 ### 2、下载并安装FinalShell SSH工具
 
